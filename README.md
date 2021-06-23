@@ -1,7 +1,7 @@
 ### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=hsulipe.hsulipe)
 <!-- **hsulipe/hsulipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 About me:
-- 🔭 I’m currently working on @Vizir
+- 🔭 I’m currently working on Vizir Software Studio
 - 🌱 I’m currently learning Terraform and Typescript
 - 📜 AWS developer certified
 - 📜 HashiCorp Certified: Terraform Associate
