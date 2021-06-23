@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/felipe-hsu-2a604012b/">
-    <img src="https://img.shields.io/badge/-felipe-hsu-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-felipe%20hsu-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="mailto:felipe_hsu@hotmail.com">
     <img src="https://img.shields.io/badge/-hsufelipe@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
