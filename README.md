@@ -1,7 +1,6 @@
 ### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=hsulipe.hsulipe)
 <!-- **hsulipe/hsulipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 About me:
-
 - 🔭 I’m currently working on Vizir Software Studio
 - 🌱 I’m currently learning Terraform and Typescript
 - 📜 AWS developer certified
@@ -18,9 +17,7 @@ About me:
 ![.Net](https://img.shields.io/badge/.NET-05122A?style=flat&logo=.net)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<div float="left">
+<div float="right">
     <img src="https://github-readme-stats.vercel.app/api?username=hsulipe&show_icons=true&theme=algolia" alt="hsulipe" />
     <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsulipe&theme=algolia" alt="hsulipe" /> -->
 <div>
