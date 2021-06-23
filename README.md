@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 ![C#](https://img.shields.io/badge/c%23-05122A?style=flag&logo=c-sharp)
 ![.Net](https://img.shields.io/badge/.NET-05122A?style=flat&logo=.net)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![AWS](https://img.shields.io/badge/Amazon_AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=flat)
-![Terraform](https://img.shields.io/badge/Terraform-%23623CE4?logo=terraform&logoColor=white&style=flat-square)
+![AWS](https://img.shields.io/badge/Amazon_AWS-05122A?logo=amazon-aws&logoColor=white&style=flat)
+![Terraform](https://img.shields.io/badge/Terraform-05122A?logo=terraform&logoColor=white&style=flat)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
