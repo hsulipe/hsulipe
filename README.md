@@ -14,15 +14,16 @@ Here are some ideas to get you started:
 ![C#](https://img.shields.io/badge/c%23-05122A?style=flag&logo=c-sharp)
 ![.Net](https://img.shields.io/badge/.NET-05122A?style=flat&logo=.net)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![AWS](https://img.shields.io/badge/Amazon_AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=flat)
+![Terraform](https://img.shields.io/badge/Terraform-%23623CE4?logo=terraform&logoColor=white&style=flat-square)
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/hsulipe">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hsulipe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hsulipe&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+<div float="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=hsulipe&show_icons=true&theme=algolia" alt="hsulipe" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsulipe&theme=algolia" alt="hsulipe" />
+<div>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -32,3 +33,6 @@ Here are some ideas to get you started:
 <a href="mailto:felipe_hsu@hotmail.com">
   <img src="https://img.shields.io/badge/-hsufelipe@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
 </a>
+![](https://visitor-badge.glitch.me/badge?page_id=hsulipe.hsulipe)
+
+
