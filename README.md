@@ -1,7 +1,6 @@
 ### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=hsulipe.hsulipe)
 <!-- **hsulipe/hsulipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-Here are some ideas to get you started:
+About me:
 
 - 🔭 I’m currently working on Vizir Software Studio
 - 🌱 I’m currently learning Terraform and Typescript
@@ -29,8 +28,8 @@ Here are some ideas to get you started:
 ### 🤝🏻 &nbsp;Connect with Me
 
 <a href="https://www.linkedin.com/in/felipe-hsu-2a604012b/">
-  <img src="https://img.shields.io/badge/-Felipe%20Hsu-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
 </a>
 <a href="mailto:felipe_hsu@hotmail.com">
-  <img src="https://img.shields.io/badge/-hsufelipe@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/>
 </a>
