@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <div float="left">
     <img src="https://github-readme-stats.vercel.app/api?username=hsulipe&show_icons=true&theme=algolia" alt="hsulipe" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsulipe&theme=algolia" alt="hsulipe" />
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsulipe&theme=algolia" alt="hsulipe" /> -->
 <div>
 
 ### 🤝🏻 &nbsp;Connect with Me
