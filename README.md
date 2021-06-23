@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=hsulipe.hsulipe)
 <!-- **hsulipe/hsulipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
@@ -34,7 +34,3 @@ Here are some ideas to get you started:
 <a href="mailto:felipe_hsu@hotmail.com">
   <img src="https://img.shields.io/badge/-hsufelipe@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
 </a>
-    
-![](https://visitor-badge.glitch.me/badge?page_id=hsulipe.hsulipe)
-
-
