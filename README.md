@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![C#](https://img.shields.io/badge/c%23-05122A?style=flag&logo=c-sharp)
-![.Net](https://img.shields.io/badge/.NET-05122A?style=flatgo=.net)
+![.Net](https://img.shields.io/badge/.NET-05122A?style=flat&logo=.net)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
