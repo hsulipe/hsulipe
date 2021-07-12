@@ -8,19 +8,19 @@ About me:
 
 ### 🛠 &nbsp;Tech Stack
 
-![AWS](https://img.shields.io/badge/Amazon_AWS-05122A?logo=amazon-aws&logoColor=white&style=flat)
-![Terraform](https://img.shields.io/badge/Terraform-05122A?logo=terraform&logoColor=white&style=flat)
+![AWS](https://img.shields.io/badge/Amazon_AWS-05122A?logo=amazon-aws&logoColor=white&style=flat)&nbsp;
+![Terraform](https://img.shields.io/badge/Terraform-05122A?logo=terraform&logoColor=white&style=flat)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![C#](https://img.shields.io/badge/c%23-05122A?style=flag&logo=c-sharp)
-![.Net](https://img.shields.io/badge/.NET-05122A?style=flat&logo=.net)
+![C#](https://img.shields.io/badge/c%23-05122A?style=flag&logo=c-sharp)&nbsp;
+![.Net](https://img.shields.io/badge/.NET-05122A?style=flat&logo=.net)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
-<div float="right">
+<!-- <div float="right">
     <img src="https://github-readme-stats.vercel.app/api?username=hsulipe&show_icons=true&theme=algolia" alt="hsulipe" />
-    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsulipe&theme=algolia" alt="hsulipe" /> -->
-<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsulipe&theme=algolia" alt="hsulipe" />
+<div> --!>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
