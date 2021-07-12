@@ -20,7 +20,7 @@ About me:
 <!-- <div float="right">
     <img src="https://github-readme-stats.vercel.app/api?username=hsulipe&show_icons=true&theme=algolia" alt="hsulipe" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsulipe&theme=algolia" alt="hsulipe" />
-<div> --!>
+<div> -->
 
 ### 🤝🏻 &nbsp;Connect with Me
 
