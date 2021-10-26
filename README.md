@@ -1,4 +1,4 @@
-### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=hsulipe.hsulipe)
+## Hi there 👋
 
 About me:
 
@@ -38,7 +38,7 @@ About me:
     </a>
 </div>
 
-### :bar_chart: &nbsp;Stats
+### :bar_chart: &nbsp;Stats  
 
 <p align="center">
     <a href="https://github.com/hsulipe">
