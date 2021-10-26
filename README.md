@@ -38,11 +38,9 @@ About me:
     </a>
 </div>
 
-### :bar_chart: &nbsp;Stats  
+### 📊 Stats 
 
-<p align="center">
-    <a href="https://github.com/hsulipe">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hsulipe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hsulipe&layout=compact&langs_count=8&theme=algolia"/>
-    </a>
+<p align="left">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hsulipe&show_icons=true&theme=algolia&include_all_commits=true" align = "center"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hsulipe&layout=compact&langs_count=8&theme=algolia" align = "center"/>
 </p>
