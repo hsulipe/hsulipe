@@ -39,7 +39,7 @@ About me:
 </div>
 
 ### :bar_chart: &nbsp;Stats
-<div float="right">
-    <img src="https://github-readme-stats.vercel.app/api?username=hsulipe&show_icons=true&theme=algolia" alt="hsulipe" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsulipe&theme=algolia" alt="hsulipe" />
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hsulipe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="hsulipe" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsulipe&layout=compact&theme=algolia" alt="hsulipe" />
 <div>
