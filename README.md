@@ -37,10 +37,10 @@ About me:
 </a>
 
 ### 📊 Stats
-<!-- <p align="left">
+<p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hsulipe&show_icons=true&theme=algolia&include_all_commits=true" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsulipe&layout=compact&langs_count=8&theme=algolia" align = "center"/>
-</p> -->
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hsulipe&show_icons=true&include_all_commits=true&theme=algolia)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsulipe&layout=compact&langs_count=8&theme=algolia)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hsulipe&show_icons=true&include_all_commits=true&theme=algolia) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsulipe&layout=compact&langs_count=8&theme=algolia) -->
