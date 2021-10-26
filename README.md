@@ -33,8 +33,8 @@ About me:
 
 
 <p align="left">
-    <img height="130rem" width="300rem" src="https://github-readme-stats.vercel.app/api?username=hsulipe&show_icons=true&include_all_commits=true&theme=dracula" align="center"/>
-    <img height="130rem" width="300rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsulipe&layout=compact&langs_count=8&theme=dracula" align="center"/>
+    <img height="150rem" width="340rem" src="https://github-readme-stats.vercel.app/api?username=hsulipe&show_icons=true&include_all_commits=true&theme=dracula" align="center"/>
+    <img height="150rem" width="340rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsulipe&layout=compact&langs_count=8&theme=dracula" align="center"/>
 </p>
 
 
