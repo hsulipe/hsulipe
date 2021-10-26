@@ -36,7 +36,7 @@ About me:
   <img src="https://img.shields.io/badge/-HackeRank-2EC866?style=flat&logo=hackerrank&logoColor=white"/>
 </a>
 
-### 📊 Stats  
+#### Stats  
 
 <p align="left">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hsulipe&show_icons=true&theme=algolia&include_all_commits=true" align = "center"/>
