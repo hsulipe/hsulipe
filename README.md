@@ -29,10 +29,13 @@ About me:
 
 ### 📊 Stats
 
-<p align="center">
+
+<p align="left">
     <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=hsulipe&show_icons=true&include_all_commits=true&theme=dracula"/>
     <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsulipe&layout=compact&langs_count=8&theme=dracula"/>
 </p>
+
+
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsulipe&show_icons=true&include_all_commits=true&theme=dracula) -->
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hsulipe&layout=compact&langs_count=8&theme=dracula) -->
