@@ -19,7 +19,7 @@ About me:
 ![.Net](https://img.shields.io/badge/.NET-694097?style=flat&logo=.net)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-E94C30?style=flat&logo=git&logoColor=white)&nbsp;
 
-<div align="center"> 
+<div> 
     <h3>🤝🏻 Connect with Me</h3>
     <a href="https://www.linkedin.com/in/felipe-hsu-2a604012b/">
       <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
@@ -38,7 +38,7 @@ About me:
     </a>
 </div>
 
-### Stats
+### :bar_chart: &nbsp;Stats
 <div float="right">
     <img src="https://github-readme-stats.vercel.app/api?username=hsulipe&show_icons=true&theme=algolia" alt="hsulipe" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsulipe&theme=algolia" alt="hsulipe" />
