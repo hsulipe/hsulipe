@@ -26,7 +26,6 @@ About me:
 [![HackerRank](https://img.shields.io/badge/-HackeRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/hsufelipe)
 
 
-### 📊 Stats
 <p align="left">
     <img height="180rem" width="450rem" src="https://github-readme-stats.vercel.app/api?username=hsulipe&show_icons=true&include_all_commits=true&theme=dracula"/>
     <img height="180rem" width="450rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsulipe&layout=compact&langs_count=8&theme=dracula"/>
