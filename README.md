@@ -1,4 +1,5 @@
 ## Hi there 👋
+
 About me:
 - 🔭 I’m currently working on Vizir Software Studio
 - 🌱 I’m currently learning Terraform and Typescript
@@ -8,6 +9,7 @@ About me:
 
 
 ### 🛠 Tech Stack
+
 ![AWS](https://img.shields.io/badge/-Amazon_AWS-FF9900?logo=amazon-aws&logoColor=white&style=flat&logoColor=black)&nbsp;
 ![Terraform](https://img.shields.io/badge/-Terraform-594CDE?logo=terraform&logoColor=white&style=flat)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)&nbsp;
@@ -19,6 +21,7 @@ About me:
 
 
 ### 🤝🏻 Connect with Me
+
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-hsu-2a604012b/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:felipe_hsu@hotmail.com)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-F48225?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/10719043/felipe-hsu)
@@ -26,9 +29,12 @@ About me:
 [![HackerRank](https://img.shields.io/badge/-HackeRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/hsufelipe)
 
 
+### 📈 Stats
 <p align="left">
-    <img height="180rem" width="450rem" src="https://github-readme-stats.vercel.app/api?username=hsulipe&show_icons=true&include_all_commits=true&theme=dracula"/>
-    <img height="180rem" width="450rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsulipe&layout=compact&langs_count=8&theme=dracula"/>
+    <a href="https://github.com/hsulipe">
+        <img height="180rem" width="450rem" src="https://github-readme-stats.vercel.app/api?username=hsulipe&show_icons=true&include_all_commits=true&theme=dracula"/>
+        <img height="180rem" width="450rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsulipe&layout=compact&langs_count=8&theme=dracula"/>
+    </a>
 </p>
 
 
