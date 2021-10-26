@@ -16,7 +16,7 @@ About me:
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/-c%23-37008C?style=flag&logo=c-sharp)&nbsp;
-![.Net](https://img.shields.io/badge/.NET-694097?style=flat&logo=.net)&nbsp;
+![.Net](https://img.shields.io/badge/-.NET-694097?style=flat&logo=.net)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-E94C30?style=flat&logo=git&logoColor=white)&nbsp;
 
 ### 🤝🏻 Connect with Me
@@ -29,7 +29,6 @@ About me:
 
 
 ### 📊 Stats
-<p align="left">
-<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=hsulipe&show_icons=true&include_all_commits=true&theme=dracula" align = "center"/>
-<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsulipe&layout=compact&langs_count=8&theme=dracula" align = "center"/>
-</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsulipe&show_icons=true&include_all_commits=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hsulipe&layout=compact&langs_count=8&theme=dracula)
