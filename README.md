@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 About me:
 
@@ -37,7 +37,7 @@ About me:
 </a>
 
 ### 📊 Stats
-<p align="left">
+<p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hsulipe&show_icons=true&theme=algolia&include_all_commits=true" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsulipe&layout=compact&langs_count=8&theme=algolia" align = "center"/>
 </p>
