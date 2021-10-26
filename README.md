@@ -19,28 +19,26 @@ About me:
 ![.Net](https://img.shields.io/badge/.NET-694097?style=flat&logo=.net)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-E94C30?style=flat&logo=git&logoColor=white)&nbsp;
 
-<div> 
-    <h3>🤝🏻 Connect with Me</h3>
-    <a href="https://www.linkedin.com/in/felipe-hsu-2a604012b/">
-      <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:felipe_hsu@hotmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/>
-    </a>
-    <a href="https://stackoverflow.com/users/10719043/felipe-hsu">
-      <img src="https://img.shields.io/badge/-StackOverflow-F48225?style=flat&logo=stackoverflow&logoColor=white"/>
-    </a>
-    <a href="https://dev.to/hsulipe">
-      <img src="https://img.shields.io/badge/-dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white"/>
-    </a>
-    <a href="https://www.hackerrank.com/hsufelipe">
-      <img src="https://img.shields.io/badge/-HackeRank-2EC866?style=flat&logo=hackerrank&logoColor=white"/>
-    </a>
-</div>
+### 🤝🏻 Connect with Me</h3>
+<a href="https://www.linkedin.com/in/felipe-hsu-2a604012b/">
+  <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="mailto:felipe_hsu@hotmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/>
+</a>
+<a href="https://stackoverflow.com/users/10719043/felipe-hsu">
+  <img src="https://img.shields.io/badge/-StackOverflow-F48225?style=flat&logo=stackoverflow&logoColor=white"/>
+</a>
+<a href="https://dev.to/hsulipe">
+  <img src="https://img.shields.io/badge/-dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white"/>
+</a>
+<a href="https://www.hackerrank.com/hsufelipe">
+  <img src="https://img.shields.io/badge/-HackeRank-2EC866?style=flat&logo=hackerrank&logoColor=white"/>
+</a>
 
-### 📊 Stats 
+### 📊 Stats  
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hsulipe&show_icons=true&theme=algolia&include_all_commits=true" align = "center"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hsulipe&layout=compact&langs_count=8&theme=algolia" align = "center"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hsulipe&show_icons=true&theme=algolia&include_all_commits=true" align = "center"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hsulipe&layout=compact&langs_count=8&theme=algolia" align = "center"/>
 </p>
