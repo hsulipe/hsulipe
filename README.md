@@ -1,12 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
 About me:
-
 - 🔭 I’m currently working on Vizir Software Studio
 - 🌱 I’m currently learning Terraform and Typescript
-- 📜 Certifications:
-    - AWS developer certified
-    - HashiCorp Certified: Terraform Associate
+- 📜 Certifications
+    - [AWS Certified Developer - Associate](https://www.credly.com/badges/e31fd487-5ac3-4268-8e74-5415ba61355f/public_url)
+    - [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/87f5ca62-b686-4da2-8aa9-1dc63a8e2896/public_url)
 
 ### 🛠 Tech Stack
 
@@ -30,5 +29,10 @@ About me:
 
 ### 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsulipe&show_icons=true&include_all_commits=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hsulipe&layout=compact&langs_count=8&theme=dracula)
+<p align="center">
+    <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=hsulipe&show_icons=true&include_all_commits=true&theme=dracula"/>
+    <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsulipe&layout=compact&langs_count=8&theme=dracula"/>
+</p>
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsulipe&show_icons=true&include_all_commits=true&theme=dracula) -->
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hsulipe&layout=compact&langs_count=8&theme=dracula) -->
