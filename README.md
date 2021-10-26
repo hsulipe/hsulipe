@@ -39,6 +39,7 @@ About me:
 </div>
 
 ### :bar_chart: &nbsp;Stats
+
 <p align="center">
     <a href="https://github.com/hsulipe">
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hsulipe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
