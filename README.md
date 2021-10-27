@@ -2,14 +2,14 @@
     <h2>Hi there 👋</h2>
     <p align="justify">
         My name is Felipe Hsu.</br>
-        I'm a software engineer and a technology enthusiast. My hobbies are reading, watching Japanese anime, and doing sports like skateboarding and jogging. 
+        I'm a back-end developer and a technology enthusiast. My hobbies are reading, watching Japanese anime, and doing sports like skateboarding and jogging. 
         Also, I'm a huge adept at meditation and mindfulness. 📚🛹🏃🧘 
     </p>
 </div>
 </br>
 
 More About me:
-- 👨‍💼 Software Engineer at Vizir Software Studio
+- 👨‍💼 Backend developer at Vizir Software Studio
 - 🌱 I’m learning Terraform and Typescript
 - 📖 This is what I'm reading right now
     - Mindfulness: A practical guide to finding peace in a frantic world by Mark Williams & Danny Penman 
