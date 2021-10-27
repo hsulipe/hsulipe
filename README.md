@@ -1,12 +1,25 @@
-## Hi there 👋
+<div align="center">
+    <h2>Hi there 👋</h2>
+    <p align="justify">
+        My name is Felipe Hsu.</br>
+        I'm a software engineer and a technology enthusiast. I love reading, doing sports like skateboarding and jogging, and watching japonese anime. 
+        Also, I'm a huge adept of meditation and mindfulness. 📚🛹🏃🧘 
+    </p>
+</div>
+</br>
 
-About me:
-- 🔭 I’m currently working on Vizir Software Studio
-- 🌱 I’m currently learning Terraform and Typescript
+More About me:
+- 👨‍💼 Software Engineer at Vizir Software Studio
+- 🌱 I’m learning Terraform and Typescript
+- 📖 This is what I'm reading right now
+    - Mindfulness: A practical guide to finding peace in a frantic world by Mark Williams & Danny Penman 
+    - The Clean Coder: A Code of Conduct for Professional Programmers by Robert Martin A.K.A Uncle Bob
 - 📜 Certifications
     - [AWS Certified Developer - Associate](https://www.credly.com/badges/e31fd487-5ac3-4268-8e74-5415ba61355f/public_url)
     - [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/87f5ca62-b686-4da2-8aa9-1dc63a8e2896/public_url)
-
+- 🕺 Fun Facts:
+    - I avoid social media, thats the reason I'm not on Twitter or Instagram. But I hope they don't eliminate me at any interview because of this. 🙏
+    - I love animals, I have one dog and three cats but I'm more a dog person. 🐶
 
 ### 🛠 Tech Stack
 
