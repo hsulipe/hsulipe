@@ -6,10 +6,9 @@
         Also, I'm a huge adept at meditation and mindfulness. 📚🛹🏃🧘 
     </p>
 </div>
-</br>
 
 More About me:
-- 👨‍💼 Backend developer at Vizir Software Studio
+- 👨‍💼 Back-end developer at Vizir Software Studio
 - 🌱 I’m learning Terraform and Typescript
 - 📖 This is what I'm reading right now
     - Mindfulness: A practical guide to finding peace in a frantic world by Mark Williams & Danny Penman 
@@ -38,13 +37,11 @@ More About me:
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-hsu-2a604012b/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:felipe_hsu@hotmail.com)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-F48225?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/10719043/felipe-hsu)
-[![Dev.To](https://img.shields.io/badge/-dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/hsulipe)
 [![HackerRank](https://img.shields.io/badge/-HackeRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/hsufelipe)
+[![Dev.To](https://img.shields.io/badge/-dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/hsulipe)
 
 
 ### 📈 Stats
-
-
 <p align="center">
     <img height="165rem" width="400rem" src="https://github-readme-stats.vercel.app/api?username=hsulipe&show_icons=true&include_all_commits=true&theme=dracula" align="center"/>
     <img height="165rem" width="400rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsulipe&layout=compact&langs_count=8&theme=dracula" align="center"/>
