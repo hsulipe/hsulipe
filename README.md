@@ -24,11 +24,11 @@ More About me:
 
 ![AWS](https://img.shields.io/badge/-Amazon_AWS-FF9900?logo=amazon-aws&logoColor=white&style=flat&logoColor=black)&nbsp;
 ![Terraform](https://img.shields.io/badge/-Terraform-594CDE?logo=terraform&logoColor=white&style=flat)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/-c%23-37008C?style=flag&logo=c-sharp)&nbsp;
-![.Net](https://img.shields.io/badge/-.NET-694097?style=flat&logo=.net)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)&nbsp;
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-E94C30?style=flat&logo=git&logoColor=white)&nbsp;
 
 
