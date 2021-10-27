@@ -22,23 +22,24 @@ More About me:
 
 ### 🛠 Tech Stack
 
-![AWS](https://img.shields.io/badge/-Amazon_AWS-FF9900?logo=amazon-aws&logoColor=white&style=flat&logoColor=black)&nbsp;
-![Terraform](https://img.shields.io/badge/-Terraform-594CDE?logo=terraform&logoColor=white&style=flat)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)&nbsp;
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-E94C30?style=flat&logo=git&logoColor=white)&nbsp;
-
+<div align="center">
+    <img height="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+    <img height="50rem" src="https://www.datocms-assets.com/2885/1620155117-brandhcterraformverticalcolorwhite.svg">
+    <img height="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />    
+    <img height="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img height="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img height="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+    <img height="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+    <img height="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</div>
 
 ### 🤝🏻 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-hsu-2a604012b/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:felipe_hsu@hotmail.com)
-[![StackOverflow](https://img.shields.io/badge/-StackOverflow-F48225?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/10719043/felipe-hsu)
-[![HackerRank](https://img.shields.io/badge/-HackeRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/hsufelipe)
-[![Dev.To](https://img.shields.io/badge/-dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/hsulipe)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-hsu-2a604012b/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:felipe_hsu@hotmail.com)
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-F48225?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/10719043/felipe-hsu)
+[![HackerRank](https://img.shields.io/badge/-HackeRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/hsufelipe)
+[![Dev.To](https://img.shields.io/badge/-dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/hsulipe)
 
 
 ### 📈 Stats
