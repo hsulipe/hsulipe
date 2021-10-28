@@ -1,5 +1,7 @@
 <div align="center">
-    <h2>Hi there 👋</h2>
+    <h2>Hi there 👋  
+        <img src="https://visitor-badge.glitch.me/badge?page_id=hsulipe.hsulipe" />
+    </h2>
     <p align="justify">
         My name is Felipe Hsu.</br>
         I'm a back-end developer and a technology enthusiast. My hobbies are reading, watching Japanese anime, and doing sports like skateboarding and jogging. 
