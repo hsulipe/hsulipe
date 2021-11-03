@@ -46,8 +46,8 @@ More About me:
 
 ### 📈 Stats
 <p align="center">
-    <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=hsulipe&show_icons=true&include_all_commits=true&theme=dracula" align="center"/>
-    <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsulipe&layout=compact&langs_count=8&theme=dracula" align="center"/>
+    <img height="165rem" width="400rem" src="https://github-readme-stats.vercel.app/api?username=hsulipe&show_icons=true&include_all_commits=true&theme=dracula" align="center"/>
+    <img height="165rem" width="400rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsulipe&layout=compact&langs_count=8&theme=dracula" align="center"/>
 </p>
 
 
