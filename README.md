@@ -16,6 +16,7 @@ More About me:
     - Mindfulness: A practical guide to finding peace in a frantic world by Mark Williams & Danny Penman 
     - The Clean Coder: A Code of Conduct for Professional Programmers by Robert Martin A.K.A Uncle Bob
 - 📜 Certifications
+    - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/96a98462-4d47-4b2c-a01f-be0b1b84d65a/public_url)
     - [AWS Certified Developer - Associate](https://www.credly.com/badges/e31fd487-5ac3-4268-8e74-5415ba61355f/public_url)
     - [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/87f5ca62-b686-4da2-8aa9-1dc63a8e2896/public_url)
 - 🕺 Fun Facts:
