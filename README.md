@@ -2,7 +2,7 @@
     <h2>Hi there 👋  
         <img src="https://visitor-badge.glitch.me/badge?page_id=hsulipe.hsulipe" />
     </h2>
-    <p align="justify">
+    <p align="center">
         My name is Felipe Hsu.</br>
         I'm a Senior Cloud Platform Engineer and a technology enthusiast. My hobbies are reading, watching Japanese anime, and doing sports like skateboarding and jogging. 
         Also, I'm a huge adept at meditation and mindfulness. 📚🛹🏃🧘
