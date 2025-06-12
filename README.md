@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Felipe Hsu 👋</h1>
   <p>Senior Cloud Platform Engineer | DevOps</p>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=hsulipe.hsulipe" alt="Visitor Count"/>
 </div>
 
 ---
